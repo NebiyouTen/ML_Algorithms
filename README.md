@@ -1,4 +1,6 @@
 # ML_Algorithms
 
-#Adaboost
-#Facedetection
+## Adaboost
+## Facedetection
+## Independent Component Analysis
+## Image Deblurring 
